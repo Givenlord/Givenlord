@@ -15,7 +15,6 @@ I am currently studying Informatics Engineering at ITS, with a strong interest i
 
 
 
-![Github Snake](https://githubusercontent.com)
 
 ###
 
