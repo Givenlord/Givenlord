@@ -1,6 +1,5 @@
 # 💫 About Me:
 I am currently studying Informatics Engineering at ITS, with a strong interest in robotics.
-Bismilah barun
 
 
 ## 🌐 Socials:
