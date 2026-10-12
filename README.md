@@ -1,5 +1,6 @@
 # 💫 About Me:
 I am currently studying Informatics Engineering at ITS, with a strong interest in robotics.
+Bismilah barun
 
 
 ## 🌐 Socials:
@@ -11,6 +12,9 @@ I am currently studying Informatics Engineering at ITS, with a strong interest i
 ![](https://github-readme-stats.shion.dev/api?username=Givenlord&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Givenlord&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Givenlord&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🟡 Pacman Contribution Graph
+![Pacman contribution graph](https://raw.githubusercontent.com/Givenlord/Givenlord/pacman-output/pacman-contribution-graph.svg)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Givenlord&icon=0&color=0)](https://visitcount.itsvg.in)
