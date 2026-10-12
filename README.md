@@ -15,7 +15,7 @@ I am currently studying Informatics Engineering at ITS, with a strong interest i
 
 
 
-![Pacman contribution graph](https://raw.githubusercontent.com/Givenlord/Givenlord/pacman-output/pacman-contribution-graph.svg)
+![Github Snake](https://githubusercontent.com)
 
 ###
 
