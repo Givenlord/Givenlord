@@ -15,7 +15,13 @@ I am currently studying Informatics Engineering at ITS, with a strong interest i
 
 
 
-![Pacman contribution graph](https://raw.githubusercontent.com/Givenlord/Givenlord/pacman-output/pacman-contribution-graph.svg)
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Givenlord/Givenlord/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Givenlord/Givenlord/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Givenlord/Givenlord/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+###
 
 ---
 [![](https://komarev.com/ghpvc/?username=Givenlord&icon=0&color=0)](https://visitcount.itsvg.in)
