@@ -12,7 +12,8 @@ I am currently studying Informatics Engineering at ITS, with a strong interest i
 ![](https://streak-stats.demolab.com/?user=Givenlord&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Givenlord&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://githubusercontent.com" />
+
+
 
 ![Pacman contribution graph](https://raw.githubusercontent.com/Givenlord/Givenlord/pacman-output/pacman-contribution-graph.svg)
 
