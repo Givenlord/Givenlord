@@ -1,6 +1,7 @@
 # 💫 About Me:
 I am currently studying Informatics Engineering at ITS, with a strong interest in robotics.
 
+🌐 **Portfolio:** https://my-porto-sepia-gamma.vercel.app
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/given-lord-040381286/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:givensiregar858@gmail.com) 
