@@ -46,6 +46,12 @@ Hi, I'm Given 👋 I'm a first-year Informatics Engineering student at ITS. Most
   <img src="https://github-trophies.vercel.app/?username=Givenlord&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6&row=1" alt="GitHub trophies" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Givenlord/Givenlord/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Givenlord/Givenlord/pacman-output/galaga-contribution-graph.svg">
+  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/Givenlord/Givenlord/pacman-output/galaga-contribution-graph.svg">
+</picture>
+
 ---
 
 <div align="center">
