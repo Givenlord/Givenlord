@@ -10,19 +10,23 @@
 
 </div>
 
----
+<br />
 
-Hi, I'm Given 👋 I'm a first-year Informatics Engineering student at ITS. I'm interested in robotics, especially in how software and hardware work together to bring a robot to life, and I'm exploring that with ROS. I'm also learning web development with Next.js, React, TypeScript and Tailwind CSS, and it's a field I'm excited to grow in. My [portfolio](https://my-porto-sepia-gamma.vercel.app) is one of my first web projects.
+Hi, I'm Given. I'm a first-year Informatics Engineering student at ITS. I'm interested in robotics, especially in how software and hardware work together to bring a robot to life, and I'm exploring that with ROS. I'm also learning web development with Next.js, React, TypeScript and Tailwind CSS, and it's a field I'm excited to grow in. My [portfolio](https://my-porto-sepia-gamma.vercel.app) is one of my first web projects.
 
-## 🎮 POWER-UPS
+<br />
 
-<p>
+## POWER-UPS
+
+<br />
+
+<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
-  <br />
+  <br /><br />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
@@ -31,20 +35,30 @@ Hi, I'm Given 👋 I'm a first-year Informatics Engineering student at ITS. I'm 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## 🏆 HIGH SCORES
+<br />
+
+## HIGH SCORES
+
+<br />
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.shion.dev/api?username=Givenlord&theme=synthwave&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Givenlord&theme=synthwave&hide_border=true&layout=compact&langs_count=6" alt="Top languages" />
 </p>
 
+<br />
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Givenlord&theme=synthwave&hide_border=true" alt="GitHub streak" />
 </p>
 
+<br />
+
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Givenlord&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6&row=1" alt="GitHub trophies" />
 </p>
+
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Givenlord/Givenlord/pacman-output/galaga-contribution-graph-dark.svg">
@@ -52,11 +66,13 @@ Hi, I'm Given 👋 I'm a first-year Informatics Engineering student at ITS. I'm 
   <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/Givenlord/Givenlord/pacman-output/galaga-contribution-graph.svg">
 </picture>
 
----
+<br /><br />
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/given-lord-040381286/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:givensiregar858@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://my-porto-sepia-gamma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ff2e97?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+
+<br />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1500&color=00E5FF&center=true&vCenter=true&width=420&lines=THANKS+FOR+PLAYING!;GAME+OVER%3F+NOT+YET." alt="THANKS FOR PLAYING!" />
 
