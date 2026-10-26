@@ -12,17 +12,6 @@
 
 ---
 
-## 🕹️ SELECT PLAYER
-
-```text
-PLAYER   : Given Lord
-CLASS    : Informatics Engineering @ ITS
-LEVEL    : 1 (freshman)
-MAIN     : C / C++  · competitive programming
-SIDE     : ROS · Next.js · TypeScript
-STATUS   : still learning, one level at a time
-```
-
 Hi, I'm Given 👋 I'm a first-year Informatics Engineering student at ITS. Most of my practice goes into solving competitive programming problems in C and C++, and on the side I'm learning robot software with ROS and building websites with Next.js. My [portfolio](https://my-porto-sepia-gamma.vercel.app) is one of my first web projects.
 
 ## 🎮 POWER-UPS
@@ -40,14 +29,6 @@ Hi, I'm Given 👋 I'm a first-year Informatics Engineering student at ITS. Most
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-## 👾 SAVED GAMES
-
-<p align="center">
-  <a href="https://github.com/Givenlord/my-porto"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Givenlord&repo=my-porto&theme=synthwave&hide_border=true" alt="my-porto" /></a>
-  <a href="https://github.com/Givenlord/KPP-Pelatdas-Robotik-"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Givenlord&repo=KPP-Pelatdas-Robotik-&theme=synthwave&hide_border=true" alt="KPP-Pelatdas-Robotik-" /></a>
-  <a href="https://github.com/Givenlord/KPP-Robotic"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Givenlord&repo=KPP-Robotic&theme=synthwave&hide_border=true" alt="KPP-Robotic" /></a>
 </p>
 
 ## 🏆 HIGH SCORES
