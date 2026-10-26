@@ -12,7 +12,7 @@
 
 ---
 
-Hi, I'm Given 👋 I'm a first-year Informatics Engineering student at ITS. Right now I'm learning robot software with ROS and building websites with Next.js. My [portfolio](https://my-porto-sepia-gamma.vercel.app) is one of my first web projects.
+Hi, I'm Given 👋 I'm a first-year Informatics Engineering student at ITS. I'm interested in robotics, especially in how software and hardware work together to bring a robot to life, and I'm exploring that with ROS. I'm also learning web development with Next.js, React, TypeScript and Tailwind CSS, and it's a field I'm excited to grow in. My [portfolio](https://my-porto-sepia-gamma.vercel.app) is one of my first web projects.
 
 ## 🎮 POWER-UPS
 
