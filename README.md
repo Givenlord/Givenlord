@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e97,50:7b2ff7,100:00e5ff&height=170&section=header&text=GIVEN%20LORD&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Informatics%20Engineering%20%40%20ITS&descAlignY=58&descSize=16" alt="Given Lord" />
+<img width="100%" src="assets/banner.svg" alt="GIVEN LORD" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2800&pause=900&color=FF2E97&center=true&vCenter=true&width=720&lines=PLAYER+1+HAS+ENTERED+THE+GAME;INSERT+COIN+TO+CONTINUE...;LOADING+C%2B%2B+%C2%B7+ROS+%C2%B7+NEXT.JS" alt="PLAYER 1 HAS ENTERED THE GAME" />
 
