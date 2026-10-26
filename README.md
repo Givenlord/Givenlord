@@ -58,8 +58,6 @@ Hi, I'm Given 👋 I'm a first-year Informatics Engineering student at ITS. Most
 
 <a href="https://www.linkedin.com/in/given-lord-040381286/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:givensiregar858@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://my-porto-sepia-gamma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ff2e97?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=Givenlord&color=ff2e97&style=for-the-badge&label=PLAYERS+VISITED" alt="Profile views" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1500&color=00E5FF&center=true&vCenter=true&width=420&lines=THANKS+FOR+PLAYING!;GAME+OVER%3F+NOT+YET." alt="THANKS FOR PLAYING!" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:7b2ff7,100:ff2e97&height=110&section=footer" alt="" />
